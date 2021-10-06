@@ -1,0 +1,16 @@
+{
+  "name": "03-dependencies",
+  "version": "1.0.0",
+  "description": "using date-fns",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.25.0"
+  },
+  "type": "module"
+}
